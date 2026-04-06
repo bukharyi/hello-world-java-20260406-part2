@@ -10,7 +10,7 @@ repositories {
 }
 
 dependencies {
-    // Add JUnit dependency for testing
+    // Add J Unit dependency for testing
     testImplementation 'junit:junit:4.13.2'
 }
 
